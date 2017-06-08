@@ -1,4 +1,4 @@
-layout:post
+layout: post
 title: "Data Cruncher Site Launched"
 date: 2017-06-08
 
